@@ -14,6 +14,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        Thread.sleep(2000)
+        setTheme(R.style.Theme_Main)
         iniciarViews()
         setItemLista()
     }
