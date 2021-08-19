@@ -8,6 +8,9 @@
 - Imagens, Logo,e icones    
 
 ### Screenshot do Projeto Atual
-<p align="center">
-  <img src="https://github.com/rafaelm229/Projeto-Aplicativo-Bancario/blob/main/assets/app_screenshot.jpeg" width="400" title="hover text">
-</p>
+<div align="left">
+  <p>
+    <img src="https://github.com/rafaelm229/Projeto-Aplicativo-Bancario/blob/main/assets/SplashScreen.jpeg" width="200" title="hover text">
+    <img src="https://github.com/rafaelm229/Projeto-Aplicativo-Bancario/blob/main/assets/app_screenshot.jpeg" width="200" title="hover text">
+  </p>
+ </div>
